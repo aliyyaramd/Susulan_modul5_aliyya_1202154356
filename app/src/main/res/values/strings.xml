@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AliyyaNur_1202154356_StudyCase5</string>
+    <string name="title_activity_main">main</string>
+    <string name="action_settings">Setting</string>
+    <string name="my_cart">My Cart</string>
+    <string name="delete">DELETE</string>
+</resources>
